@@ -6,12 +6,21 @@
 Currently at **CFA Institute** (Charlottesville, VA), open to Data Engineering roles.
 
 [![ML Coursework Portfolio](https://img.shields.io/badge/ML%20Coursework%20Portfolio-saivarun1125.github.io-1E3A5F?style=for-the-badge)](https://saivarun1125.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkata%20Sai%20Varun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-sai-varun-mooraboina-9568b1238)
 [![Email](https://img.shields.io/badge/Email-saivarun1125%40gmail.com-D9472B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saivarun1125@gmail.com)
 [![Wiki](https://img.shields.io/badge/Profile%20Wiki-read%20more-1E3A5F?style=for-the-badge&logo=bookstack&logoColor=white)](wiki/Home.md)
 
 </div>
 
 ---
+
+## 📊 Impact at a glance
+
+| 4+ yrs | 10+ sources | 1,085 columns | -30% | -60% | +47% |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| data engineering | SaaS feeds owned into Snowflake | clickstream ingested event-driven | ingestion time (Glue/PySpark/EMR) | reporting latency (Customer 360) | query speed (Snowflake migration) |
+
+**Open to:** Data Engineer · Analytics Engineer · Data Platform roles (Snowflake, Airflow, dbt, Azure/AWS)
 
 ## 👋 About
 
@@ -87,7 +96,7 @@ Full breakdown: [Skills & certifications](wiki/Skills-and-Certifications.md)
 | **Customer 360 Data Platform** | Batch + streaming on S3, Glue, Redshift unifying CRM, product and billing data | **-60%** reporting latency |
 | **Data Migration to Snowflake** | PySpark + Databricks migration | **+47%** query speed |
 | **Marketing Analytics Dashboard** | Snowflake + dbt models behind Tableau and Power BI | **+40%** campaign visibility |
-| **AWS Real-Time Streaming Pipeline** | Kinesis, EMR, PySpark ingestion | Real-time processing |
+| **AWS Real-Time Streaming Pipeline** | Kinesis, EMR, PySpark ingestion | Streaming ingestion design |
 | [**Spark_V2**](https://github.com/SaiVarun1125/Spark_V2) | Scala + Spark practice projects | Public code |
 | [**Room_Marketplace**](https://github.com/SaiVarun1125/Room_Marketplace) | Next.js + Postgres marketplace for individual rooms | Full-stack app |
 | [**ML Coursework Portfolio**](https://saivarun1125.github.io/) | Indiana Wesleyan University, AIML-500: AI timeline deck, interview-prep chatbot, ML vs DL report, AI training interaction | Live site |
@@ -105,4 +114,4 @@ More: [Projects](wiki/Projects.md)
 
 ## 📫 Let's talk
 
-Hiring for data engineering, analytics engineering or platform roles? Email **saivarun1125@gmail.com** or see my [ML coursework portfolio](https://saivarun1125.github.io/).
+Hiring for data engineering, analytics engineering or platform roles? Message me on [LinkedIn](https://www.linkedin.com/in/venkata-sai-varun-mooraboina-9568b1238), email **saivarun1125@gmail.com**, or see my [ML coursework portfolio](https://saivarun1125.github.io/).

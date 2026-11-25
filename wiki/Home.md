@@ -14,4 +14,4 @@ Data Engineer · Snowflake · Airflow · dbt · PySpark · Azure & AWS
 - 4+ years in data engineering across healthcare, life insurance, financial services and enterprise analytics
 - Current: Data Engineer & Enterprise Analytics, CFA Institute
 - Reduced ingestion time by up to 30%; cut reporting latency 60% on a Customer 360 build
-- Contact: saivarun1125@gmail.com · [ML coursework portfolio](https://saivarun1125.github.io/)
+- Contact: saivarun1125@gmail.com · [LinkedIn](https://www.linkedin.com/in/venkata-sai-varun-mooraboina-9568b1238) · [ML coursework portfolio](https://saivarun1125.github.io/)
